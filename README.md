@@ -36,69 +36,8 @@ Putting this soon.
 ## Skills
 
 ### Programming Languages
-Here are the logos for the programming languages and technologies you listed:
 
-- **Golang**:
-  ![Golang Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png)
-
-- **Dart**:
-  ![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/220px-Dart-logo.png)
-
-- **Python**:
-  ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png)
-
-- **C/C++**:
-  ![C/C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png)
-
-- **Java**:
-  ![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/2048px-Java_programming_language_logo.svg.png)
-
-- **JavaScript**:
-  ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png)
-
-- **TypeScript**:
-  ![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png)
-
-- **Ruby**:
-  ![Ruby Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/256px-Ruby_logo.svg.png)
-
-- **HTML/CSS**:
-  ![HTML/CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/240px-CSS3_and_HTML5_logos_and_wordmarks.svg.png)
-
-- **SQL**:
-  ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/180px-Postgresql_elephant.svg.png)
-
-- **PHP**:
-  ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/200px-PHP-logo.svg.png)
-
-- **C#**:
-  ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/220px-C_Sharp_wordmark.svg.png)
-
-- **Rust**:
-  ![Rust Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/320px-Rust_programming_language_black_logo.svg.png)
-
-- **Kotlin**:
-  ![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/200px-Kotlin_Icon.svg.png)
-
-- **Perl**:
-  ![Perl Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Perl_Logo_Only.svg/160px-Perl_Logo_Only.svg.png)
-
-- **Groovy**:
-  ![Groovy Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/220px-Groovy-logo.svg.png)
-
-- **R**:
-  ![R Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/200px-R_logo.svg.png)
-
-- **Lua**:
-  ![Lua Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/180px-Lua-Logo.svg.png)
-
-- **Scala**:
-  ![Scala Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/320px-Scala-full-color.svg.png)
-
-- **Shell Scripting (Bash)**:
-  ![Bash Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/200px-Gnu-bash-logo.svg.png)
-
-These logos can be used in your README file to visually represent the programming languages and technologies you are proficient in.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/60px-Go_Logo_Blue.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/60px-Dart-logo.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/60px-Python-logo-notext.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/60px-ISO_C%2B%2B_Logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/60px-Java_programming_language_logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/60px-JavaScript-logo.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/60px-Typescript_logo_2020.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/60px-Ruby_logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/60px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/60px-Postgresql_elephant.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/60px-PHP-logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/60px-C_Sharp_wordmark.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/60px-Rust_programming_language_black_logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/60px-Kotlin_Icon.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Perl_Logo_Only.svg/60px-Perl_Logo_Only.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/60px-Groovy-logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/60px-R_logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/60px-Lua-Logo.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/60px-Scala-full-color.svg.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/60px-Gnu-bash-logo.svg.png" width="60" height="60">
 
 ### Frameworks
 
