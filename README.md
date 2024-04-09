@@ -41,36 +41,35 @@ Putting this soon.
 
 ### Frameworks
 
-- **React**: Proficient in React for building interactive and responsive user interfaces.
-- **Vue.js**: Familiar with Vue.js for building modern and dynamic web applications.
-- **Spring Boot**: Experienced in Spring Boot for building enterprise Java applications.
-- **Android SDK**: Proficient in Android SDK for native Android app development.
-- **iOS SDK**: Experienced in iOS SDK for native iOS app development.
-- **Node.js**: Skilled in Node.js for building scalable and efficient backend services.
-- **Express.js**: Experienced in Express.js for building RESTful APIs and web applications.
-- **TensorFlow**: Proficient in TensorFlow for deep learning and machine learning tasks.
-- **PyTorch**: Experienced in PyTorch for deep learning research and development.
-- **Django**: Skilled in Django for building scalable and secure web applications.
-- **Flask**: Experienced in Flask for developing lightweight and modular web applications.
-- **Pandas**: Proficient in Pandas for data manipulation and analysis in Python.
-- **NumPy**: Experienced in NumPy for numerical computing and array operations.
-- **Matplotlib**: Skilled in Matplotlib for data visualization and plotting in Python.
-- **Scikit-learn**: Experienced in Scikit-learn for machine learning algorithms and models.
-- **Tableau**: Familiar with Tableau for data visualization and business intelligence.
-- **Metasploit**: Skilled in Metasploit for penetration testing and ethical hacking.
-- **Wireshark**: Experienced in Wireshark for network protocol analysis and troubleshooting.
-- **Nmap**: Familiar with Nmap for network scanning and reconnaissance.
-- **Snort**: Knowledgeable in Snort for intrusion detection and prevention.
-- **Burp Suite**: Proficient in Burp Suite for web application security testing and vulnerability assessment.
-- **RESTful APIs**: Experienced in designing and implementing RESTful APIs for web services.
-- **Flutter**: Proficient in Flutter for building cross-platform mobile applications.
-- **React Native**: Experienced in React Native for building native mobile applications for iOS and Android.
-- **Android Jetpack**: Experienced in Android Jetpack for building modern Android applications.
-- **Arduino**: Proficient in Arduino programming for building IoT prototypes and projects.
-- **Raspberry Pi**: Experienced in Raspberry Pi for building IoT devices and projects.
-- **Google Analytics**: Experienced in Google Analytics for tracking website traffic and user behavior.
-- **Power BI**: Proficient in Power BI for creating interactive dashboards and visualizations.
-- **Excel**: Experienced in Excel for data analysis, modeling, and visualization.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/128px-Vue.js_Logo_2.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/128px-Spring_Framework_Logo_2018.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Android_logo_2019_%28stacked%29.svg/128px-Android_logo_2019_%28stacked%29.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Apple_logo_black.svg/128px-Apple_logo_black.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/128px-Node.js_logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/128px-Expressjs.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/128px-TensorFlowLogo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pytorch_logo.png/128px-Pytorch_logo.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/128px-Django_logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/128px-Flask_logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/128px-Pandas_logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/128px-NumPy_logo_2020.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/128px-Created_with_Matplotlib-logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/128px-Scikit_learn_logo_small.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Tableau_Logo.png/128px-Tableau_Logo.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Metasploit_logo_and_wordmark.svg/128px-Metasploit_logo_and_wordmark.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wireshark_Logo.svg/128px-Wireshark_Logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Nmap-logo.svg/128px-Nmap-logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Snort-logo-1.svg/128px-Snort-logo-1.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Burp_Suite_Logo.png/128px-Burp_Suite_Logo.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Google-flutter-logo.svg/128px-Google-flutter-logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/128px-React-icon.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Android_Jetpack_Logo.svg/128px-Android_Jetpack_Logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/128px-Arduino_Logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Raspberry_Pi_Logo.svg/128px-Raspberry_Pi_Logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Google_Analytics_Logo.svg/128px-Google_Analytics_Logo.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/128px-Power_bi_logo_black.svg.png" width="128" height="128">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg/128px-Microsoft_Office_Excel_%282018%E2%80%93present%29.svg.png" width="128" height="128">
 
 ## Tools, IDEs, and Environments
 - **Git**: Proficient in Git for version control and collaboration on software projects.
